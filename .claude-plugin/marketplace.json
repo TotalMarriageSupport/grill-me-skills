@@ -1,0 +1,19 @@
+{
+  "name": "grill-me-skills",
+  "owner": {
+    "name": "TMS Holdings",
+    "url": "https://github.com/TotalMarriageSupport"
+  },
+  "metadata": {
+    "description": "Fork of mattpocock/skills tuned for TMS Holdings — grilling, TDD, diagnosis, triage, and more",
+    "version": "0.1.0",
+    "repository": "https://github.com/TotalMarriageSupport/grill-me-skills"
+  },
+  "plugins": [
+    {
+      "name": "grill-me-skills",
+      "description": "Skills for real engineers: alignment grilling (grill-me, grill-with-docs), TDD, diagnosis, triage, architecture, PRD/issue creation, and productivity helpers",
+      "source": "./"
+    }
+  ]
+}
