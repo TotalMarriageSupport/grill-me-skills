@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "Fork of mattpocock/skills tuned for TMS Holdings — grilling, TDD, diagnosis, triage, and more",
-    "version": "0.1.0",
+    "version": "1.0.0",
     "repository": "https://github.com/TotalMarriageSupport/grill-me-skills"
   },
   "plugins": [
